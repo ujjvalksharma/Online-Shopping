@@ -1,0 +1,42 @@
+.webdev-cyu-background-blue { 
+background-color: #0275d8;
+}
+
+.webdev-cyu-background-black { 
+    background-color: #292b2c;
+}
+
+.webdev-cyu-background-red { 
+    background-color: #d9534f;
+}
+
+.webdev-cyu-color-blue { 
+    color: #0275d8;
+    }
+    
+    .webdev-cyu-color-black { 
+        color: #292b2c;
+    }
+    
+    .webdev-cyu-color-red { 
+        color: #d9534f;
+    }
+    .webdev-cyu-color-blue { 
+        color: #0275d8;
+    }
+    .webdev-cyu-disable-color{
+        text-decoration: none;
+    }
+    .webdev-cyu-move-right{
+        float: right;
+       display: none;
+    }
+    a { 
+      
+        color: #292b2c;
+    }
+
+      a:hover {
+        color: #292b2c;
+        text-decoration: none;
+      }

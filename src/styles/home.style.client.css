@@ -1,0 +1,20 @@
+.webdev-cyu-shift-search-right{
+    margin-left: 20%
+}
+.webdev-cyu-prod-card-width{
+    width: 18rem;
+}
+.webdev-cyu-product-card-img{
+
+        height: 100px;
+        width: 100px; 
+   
+}
+.webdev-cyu-product-desc-img{
+    height: 500px;
+    width: 500px; 
+}
+
+.card{
+    border: 0;
+}
